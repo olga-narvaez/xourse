@@ -1,2 +1,2 @@
-# xource
+# xourse
 Learning and practicing js.
